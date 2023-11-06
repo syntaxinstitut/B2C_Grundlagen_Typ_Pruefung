@@ -1,0 +1,1 @@
+open class Fahrzeug(val marke: String)

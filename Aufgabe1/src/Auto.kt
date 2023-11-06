@@ -1,0 +1,1 @@
+class Auto(marke: String, val modell: String) : Fahrzeug(marke)
